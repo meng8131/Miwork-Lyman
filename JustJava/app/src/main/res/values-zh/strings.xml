@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">来一杯吧</string>
+    <string name="button_order">下单</string>
+    <string name="name_hint">您的姓名</string>
+    <string name="quantity">数量</string>
+    <string name="toppings">加料</string>
+    <string name="toppings_1">奶油</string>
+    <string name="toppings_2">巧克力</string>
+    <string name="add_toppings_1">是否加奶油？</string>
+    <string name="add_toppings_2">是否加巧克力？</string>
+    <string name="quantity_summary">订单数量</string>
+    <string name="thank_you">欢迎光临！</string>
+    <string name="total_price_summary">订单总价：$</string>
+    <string name="mail_subject">\"来一杯\"订单确认</string>
+</resources>

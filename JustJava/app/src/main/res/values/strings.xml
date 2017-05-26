@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="toppings_1">Whipped Cream</string>
+    <string name="toppings_2">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="button_decrease" translatable="false">-</string>
+    <string name="button_increase" translatable="false">+</string>
+    <string name="default_quantity" translatable="false">0</string>
+    <string name="button_order">Order</string>
+    <string name="add_toppings_1">Add Whipped Cream？</string>
+    <string name="add_toppings_2">Add Chocolate？</string>
+    <string name="quantity_summary">Quantity</string>
+    <string name="total_price_summary">Total Price：$</string>
+    <string name="thank_you">Thank You！</string>
+    <string name="mail_subject">Just Java Order Confirmation</string>
+</resources>
